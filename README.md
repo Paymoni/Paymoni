@@ -4,13 +4,7 @@
 <img src="https://media.discordapp.net/attachments/907956256105443358/963054761668644934/standard.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 <br> 
 
-<h1 align="center">
-  <b>PAYMONI</b>
-</h1>
-Hello! I'm PAYMONI, a student currently living in moon.
-
-<br>
-
+---------
 <p>
 <div align="center">
   <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
@@ -46,6 +40,7 @@ Hello! I'm PAYMONI, a student currently living in moon.
 
 [![Abhigyan Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=paymoni&custom_title=PAYMONI%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://github.com/paymoni)
 
+----
 ## Just a Snake 🐍 Eating away my Contributions...
 ![snake gif](https://raw.githubusercontent.com/avinash-218/avinash-218/output/github-contribution-grid-snake.svg)
 

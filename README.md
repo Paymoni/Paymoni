@@ -51,8 +51,3 @@
 <br> 
 
 ------
-
-Credit: [abhigyantrips](https://github.com/abhigyantrips)
-
-
-Last Edited on: 5/24/2022
